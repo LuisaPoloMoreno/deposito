@@ -2,7 +2,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.Test;
 
-class depositocombustibleTest {
+class depositoCombustibleNivelTest {
 	
 	private DepositoCombustible DepositoCombustible ;
 
