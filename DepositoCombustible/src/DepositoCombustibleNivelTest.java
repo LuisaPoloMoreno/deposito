@@ -2,15 +2,15 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.Test;
 
-class depositoCombustibleMaxTest {
+class DepositoCombustibleNivelTest {
 	
 	private DepositoCombustible DepositoCombustible ;
 
 	@Test
-	void testGetDepositoMax() {
+	void testGetDepositoNivel() {
 		DepositoCombustible dep= new DepositoCombustible (40.0, 10.0);
-		double max= dep.getDepositoMax();
-		assertEquals (40.0, max);
+		double nivel= dep.getDepositoNivel();
+		assertEquals (10.0, nivel);
 		
 	}
 

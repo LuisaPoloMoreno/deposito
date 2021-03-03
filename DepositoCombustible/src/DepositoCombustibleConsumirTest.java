@@ -3,7 +3,7 @@ import static org.junit.jupiter.api.Assertions.assertNotSame;
 
 import org.junit.jupiter.api.Test;
 
-class depositoCombustibleConsumirTest {
+class DepositoCombustibleConsumirTest {
 	
 	private DepositoCombustible DepositoCombustible ;
 
